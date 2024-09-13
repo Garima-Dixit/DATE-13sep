@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "first_name": "Barbette",
+        "last_name": "Lawles",
+        "email": "blawles0@nifty.com",
+        "gender": "Female"
+    },
+    {
+        "id": 2,
+        "first_name": "Carmine",
+        "last_name": "Stivani",
+        "email": "cstivani1@shop-pro.jp",
+        "gender": "Genderfluid"
+    },
+    {
+        "id": 3,
+        "first_name": "Loralyn",
+        "last_name": "Lyford",
+        "email": "llyford2@java.com",
+        "gender": "Female"
+    },
+    {
+        "id": 4,
+        "first_name": "Avery",
+        "last_name": "Dagnall",
+        "email": "adagnall3@imageshack.us",
+        "gender": "Male"
+    },
+    {
+        "id": 5,
+        "first_name": "Duffy",
+        "last_name": "Stedall",
+        "email": "dstedall4@google.cn",
+        "gender": "Male"
+    },
+    {
+        "id": 6,
+        "first_name": "Rona",
+        "last_name": "Reside",
+        "email": "rreside5@g.co",
+        "gender": "Female"
+    },
+    {
+        "id": 7,
+        "first_name": "Jo",
+        "last_name": "Lehrmann",
+        "email": "jlehrmann6@de.vu",
+        "gender": "Male"
+    },
+    {
+        "id": 8,
+        "first_name": "Robin",
+        "last_name": "Rushworth",
+        "email": "rrushworth7@fema.gov",
+        "gender": "Male"
+    },
+    {
+        "id": 9,
+        "first_name": "Alysa",
+        "last_name": "Sermin",
+        "email": "asermin8@ftc.gov",
+        "gender": "Female"
+    },
+    {
+        "id": 10,
+        "first_name": "Ewen",
+        "last_name": "Janecki",
+        "email": "ejanecki9@upenn.edu",
+        "gender": "Male"
+    }
+]
